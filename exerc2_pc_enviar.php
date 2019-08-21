@@ -4,7 +4,7 @@
     <title>Formulário de Feedback</title>
 </head>
 <body>
-  <form action="process_form_atividade_2.php" method="post">
+  <form action="exerc2_pc_inserir.php" method="post">
 <table>
 <tr>
   <td colspan="2"><h2>Por favor, dê o seu feedback</h2></td>
